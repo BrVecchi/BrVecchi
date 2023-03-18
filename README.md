@@ -38,7 +38,7 @@
   </a>
 </div>
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=BrVecchi&repo=BrVecchi&theme=react)](https://github.com/BrVecchi/BrVecchi)
+ ![Snake animation](https://github.com/BrVecchi/BrVecchi/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
