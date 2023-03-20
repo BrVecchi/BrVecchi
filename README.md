@@ -38,8 +38,6 @@
   </a>
 </div>
 
- ![Snake animation](https://github.com/brvecchi/brvecchi/blob/output/github-contribution-grid-snake.svg)
-
 ###
 
 <br clear="both">
