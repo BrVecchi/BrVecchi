@@ -40,6 +40,6 @@ Hi 👋! My name is Bruno Vecchi and I'm a Full Stack Developer.
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             target="_blank"></a>
 
-    ![Snake animation](https://github.com/BrVecchi/BrVecchi/blob/main/github-contribution-grid-snake.svg)
+    ![Snake animation](.github/svgs/github-contribution-grid-snake.svg)
 
 </div>
