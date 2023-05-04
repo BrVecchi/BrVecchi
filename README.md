@@ -7,8 +7,9 @@ Hi 👋! My name is Bruno Vecchi and I'm a Full Stack Developer.
     <a href="https://github.com/BrVecchi">
         <img height="180em"
             src="https://github-readme-stats.vercel.app/api?username=BrVecchi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-        <img height="170em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrVecchi&layout=compact&langs_count=7&theme=dracula" />
+    </a>
+    <img height="170em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrVecchi&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
 <div align="center" style="display: inline_block">
@@ -39,7 +40,4 @@ Hi 👋! My name is Bruno Vecchi and I'm a Full Stack Developer.
     <a href="https://www.linkedin.com/in/br-vecchi/" target="_blank"><img
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             target="_blank"></a>
-
-    ![Snake animation](https://github.com/BrVecchi/BrVecchi/blob/output/github-contribution-grid-snake.svg)
-
 </div>
