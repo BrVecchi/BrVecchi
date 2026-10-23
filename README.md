@@ -1,6 +1,6 @@
 Hi 👋! My name is Bruno Vecchi and I'm a Full Stack Developer.
 
-- 📫 contacte-me on email: bno.vecchi@gmail.com
+- 📫 contact me on email: bno.vecchi@gmail.com
 - 😄 Pronouns: he/him
 
 <div align="center">
