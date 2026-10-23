@@ -1,7 +1,7 @@
 Hi 👋! My name is Bruno Vecchi and I'm a Full Stack Developer.
 
-- 📫 contacte-me no email: bno.vecchi@gmail.com
-- 😄 Pronouns: ele/dele
+- 📫 contacte-me on email: bno.vecchi@gmail.com
+- 😄 Pronouns: he/him
 
 <div align="center">
     <a href="https://github.com/BrVecchi">
