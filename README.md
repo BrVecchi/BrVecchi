@@ -44,4 +44,4 @@ Hi 👋! My name is Bruno Vecchi and I'm a Full Stack Developer.
 
 ##
 
-![Snake animation](https://github.com/BrVecchi/BrVecchi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://githubusercontent.com)
